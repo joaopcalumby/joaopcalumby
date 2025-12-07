@@ -1,6 +1,6 @@
 <p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hubot+sans&duration=3500&pause=10&color=4493F8&multiline=true&repeat=false&width=450&height=60&lines=Hello+world!;I'm+Jo%C3%A3o+Pedro%2C+be+welcome+to+my+profile!" alt="Typing SVG" /></a></p>
 
-###
+<!--###
 
 <div align="left">
  <div align="left">
@@ -24,7 +24,7 @@
 
 ###
 
-<!--
+
 **joaopcalumby/joaopcalumby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
