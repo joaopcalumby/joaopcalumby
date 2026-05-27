@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm a Information System student at UFAL (Federal University of Alagoas) focused on Artificial Intelligence and practical applications of LLMs. Currently interning at **Digital Grid**, a startup specialized in distributed generation credit management, where I work on automated data extraction from energy invoices using Python, Regex, OCR, and LLMs.
+I'm an Information Systems student at UFAL (Federal University of Alagoas), focused on **Data Science, AI Engineering, and practical applications of LLMs**. Currently interning at **Digital Grid**, a startup specialized in distributed generation credit management, where I work on automated data extraction from energy invoices using Python, Regex, OCR, and LLMs. I also serve as **President of Rocket Jr**, a junior enterprise where I lead technology and innovation projects.
 
 ---
 
@@ -17,7 +17,6 @@ I'm a Information System student at UFAL (Federal University of Alagoas) focused
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Libraries**
@@ -37,6 +36,7 @@ I'm a Information System student at UFAL (Federal University of Alagoas) focused
 ![Tesseract](https://img.shields.io/badge/Tesseract_OCR-00427E?style=for-the-badge&logoColor=white)
 
 ---
+
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopcalumby)
